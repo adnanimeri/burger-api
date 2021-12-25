@@ -1,0 +1,49 @@
+{
+    "burger":
+    [
+        {   "id": 0,
+            "name": "ChicBurger",
+            "description": "The best burgers with chicken based sources. It comes with soft buns",
+            "restaurant": "ChicChicken",
+            "web":"www.chick-chicken.ch",
+            "ingradients":["filet de poulet","bread","mayonnes"],
+            "addresses":[
+                            {   "number":"28",
+                                "codepostal":"1205",
+                                "street":"Bd du Pont-d'Arve",
+                                "city":"Geneve",
+                                "country":"Switzerland"
+
+                            },
+
+                            {   "number": "19",
+                                "codepostal":"1201",
+                                "street":"Rue de Lyon",
+                                "city":"Geneve",
+                                "country":"Switzerland"
+
+                            }
+
+                        ]
+        },
+
+        {   "id": 1,
+            "name": "FreshBurger",
+            "description": "The best burgers with chicken based sources. It comes with soft buns",
+            "restaurant": "AdiBurgers",
+            "web":"www.adi.ch",
+            "ingradients":["meat","bread","mayonnes"],
+            "addresses":[
+                            {   "number":"17",
+                                "codepostal":"1005",
+                                "street":"A Quartier der Schweizer Stadt Lausanne.",
+                                "city":"laussane",
+                                "country":"Switzerland"
+
+                            }
+
+                        ]
+        }
+
+    ]
+}
